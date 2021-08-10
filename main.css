@@ -385,15 +385,7 @@ color: var(--dark);
     width: 70%;
     margin: 0 auto;
 }
-.contact-middle div{
-    text-align: center;
-    padding: 25px 0;
-    background: var(--dark);
-    color: #fff;
-}
-.contact-middle div span{
-    display: block;
-}
+
 .contact-icon{
     font-size: 30px;
 }
